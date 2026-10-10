@@ -1,0 +1,8 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+lightgbm>=4.0
+
+# Only needed for eda_visuals.py
+matplotlib>=3.8
+seaborn>=0.13
